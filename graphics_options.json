@@ -1,0 +1,22 @@
+{
+	"screen_height": 1080,
+	"screen_width": 1920,
+	"wind_physics": true,
+	"wind_strength_factor": 1,
+	"wind_max_speed_factor": 1,
+	"dead_tank_lifetime_ticks": 7200,
+
+	"fort_bloom_range_factor": 0.25,
+	"fort_missle_size": 6,
+	"fort_missle_trail_length": 15,
+
+	"game_text_lifetime_ticks": 60,
+	"particle_lifetime_ticks": 60,
+
+	"tank_bloom_range_factor": 0.125,
+	"tank_missle_size": 4,
+	"tank_missle_trail_length": 5,
+	"tank_trail_length": 300,
+
+	"tile_size": 50
+}

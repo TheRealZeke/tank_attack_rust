@@ -1,0 +1,10 @@
+{
+  "tank_shoot": 20,
+  "fort_shoot": 20,
+  "laser_hit": 10,
+  "tank_dies": 15,
+  "tank_reload": 15,
+  "tank_created": 5,
+  "fort_captured": 25,
+  "background": 8
+}
