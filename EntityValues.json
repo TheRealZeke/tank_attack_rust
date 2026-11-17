@@ -1,0 +1,91 @@
+{
+	"Tank_HP": 600.0,
+	"Tank_RANGE": 250,
+	"Tank_DAMAGE": 50,
+
+	"Tank_MAX_AMMO": 20,
+	"Tank_MISSLE_NO": 4,
+	"Tank_MIN_POP": 60,
+	"Tank_SPEED_FACTOR": 1.1,
+	"Tank_LASER_COOLDOWN": 50,
+	"Tank_LASER_SPEED":  12.5,
+	
+	"Fort_HP": 1600.0,
+	"Fort_RANGE": 300,
+	"Fort_DAMAGE": 30,
+
+	"Fort_SIZE": 25,
+	"Fort_SPAWNTANK_TIME": 1500,
+	"Fort_LASER_COOLDOWN": 12,
+	"Fort_LASER_SPEED":  20,
+
+
+
+	"PanicHealthPerc": 0.25,
+
+	"special_tank_age": -1,
+	"special_tank_killcount": 3,
+
+	"special_tank_damage_factor": 1.25,
+	"special_tank_ammo_factor": 1,
+	"special_tank_hitpoints_factor": 2,
+	"special_tank_healing_factor": 0,
+	"special_tank_speed_factor": 0.67,
+	"special_tank_range_factor": 1.0,
+
+	"special_fort_tanks_healed": 25,
+	"special_fort_tanks_spawned": -1,
+
+	"special_fort_hitpoints_factor": 4,
+	"special_fort_healing_factor": 1,
+	"special_fort_tankspawn_factor": 5,
+	"special_fort_misslecooldown_factor": 2,
+	"special_fort_damage_factor": 1,
+	"special_fort_range_factor": 1.15,
+	"special_fort_territory_power": 1.5,
+	"assimilating_fort_territory_power": 0.67,
+
+
+
+	"fort_missle_cooldown_factor": 1,
+	"fort_target_time": 24,
+	"fort_wander_time": 24,
+
+	"fort_gun_length": 40,
+	"fort_gun_width": 2,
+
+	"tank_supplyammo_ticks": 90,
+	"tank_target_ticks": 30,
+	"tank_LOSrange_factor": 3,
+
+	"tank_fort_heal_percent": 0.25,
+	"tank_specialfort_heal_percent": 0.01,
+	"tanks_per_fort": 0,
+
+	"fort_assimilation_ticks": 4500,
+	"fort_validhealer_ticks": 4500,
+	
+
+
+	"tank_missle_velocity": 1,
+	"tank_missle_damagefactor": 0.4,
+	"tank_missle_projectile_no": 5,
+	"tank_missle_splash_radius": 5,
+	"tank_missle_terminal_velocity": 8,
+	"tank_missle_power": 1.25,
+
+	"fort_missle_velocity": 10,
+	"fort_missle_damagefactor": 0.0,
+	"fort_missle_projectile_no": 12,
+	"fort_missle_splash_radius": 5,
+	"fort_missle_terminal_velocity": 12.5,
+	"fort_missle_power": 2.4,
+
+	"fort_healing_lobby_size": 3,
+
+	"SHINYS_MOVE_FAST": true,
+	"DAMAGED_MOVE_FAST": true,
+
+	"extra_population_interval": 150,
+	"extra_population_quanta": 1
+}

@@ -1,0 +1,18 @@
+Space - Random Game
+Delete - Delete all Entities
+
+D - Toggle Dev
+M - Toggle Minimap
+T - Toggle Tiles
+P - Toggle Particles
+U - Toggle UI
+M - Toggle Minimap
+
+Right-Click			  - Spawn Fort
+Left-Click			  - Spawn Tank
+LCtrl + Right-Click   - Spawn Captured Fort
+LCtrl + Left-Click    - Spawn Damaged Tank
+LShift + Right_Click  - Spawn Special Fort
+LShift + Left_Click   - Spawn Special Tank
+
+1-9, LShift + 1-2     - Select Team to Spawn

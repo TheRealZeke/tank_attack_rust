@@ -1,0 +1,16 @@
+{
+    "NEED_SUPPLIES":true,
+    "CONVERT_FORTS":true,
+    "CONVERT_TANKS":false,
+    "GIFT_TANKS":false,
+    "FORTS_SPAWN_TANKS":true,
+    "FORTS_ATTACK_FORTS":false,
+    "FORTS_NEUTERED":false,
+    "FORT_MISSLES":false,
+    "FORT_HEALING":true,
+    "SPECIAL_TANKS":true,
+    "SPECIAL_FORTS": true,
+    "SMART_MISSLES": false,
+    "TANKS_HAVE_AIMBOT": true,
+    "FORTS_HAVE_AIMBOT": true
+}

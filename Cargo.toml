@@ -1,0 +1,22 @@
+[package]
+name = "tank_attack_rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "tank_attack_rust"
+path = "src/lib.rs"
+
+[[bin]]
+name = "tank_attack_rust"
+path = "src/main.rs"
+
+[dependencies]
+sfml = { version = "=0.21.0", features = ["graphics", "audio", "window"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rand = { version = "0.8", features = ["small_rng"] }
+chrono = "0.4"
+
+[profile.dev]
+opt-level = 1

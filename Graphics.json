@@ -1,0 +1,25 @@
+{
+	"SCREEN_WIDTH": 1920,
+	"SCREEN_HEIGHT": 1080,
+
+	"Default_Particle_Ticks": 60,
+	"Tiles_Size": 50,
+	"DeadTank_Ticks": 7200,
+	"GameText_Ticks": 60,
+	"Tank_BloomRangeFactor": 0.125,
+	"Fort_BloomRangeFactor": 0.25,
+
+	"Tank_Missle_Size": 4,
+	"Tank_Missle_TrailLength": 5,
+
+	"Fort_Missle_Size": 6,
+	"Fort_Missle_TrailLength": 15,
+
+	"WIND": true,
+	"max_wind_speed_factor": 1,
+	"wind_strength_factor": 1,
+
+	"tank_trail_length": 300,
+	"flag_node_length": 0,
+	"flag_node_number": 0
+}

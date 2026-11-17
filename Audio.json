@@ -1,0 +1,13 @@
+{
+  "volumes": {
+    "tankshoot": 20,
+    "fortshoot": 20,
+    "laserhit": 10,
+    "tankdies": 15,
+    "tankreload": 15,
+    "tankcreated": 5,
+    "fortcaptured": 25,
+    "background": 8
+  },
+  "background_music_file": "files/audio/kim-lightyear-hey-233400.ogg"
+}
